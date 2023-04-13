@@ -3,7 +3,7 @@ package BJ;
 import java.util.Scanner;
 
 public class BJ_02_2753 {
-    // 백준 윤년문제
+    // 백준 윤년문제.
     public static void main(String[] args) {
 
         Scanner s = new Scanner(System.in);

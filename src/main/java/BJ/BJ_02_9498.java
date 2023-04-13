@@ -3,7 +3,7 @@ package BJ;
 import java.util.Scanner;
 
 public class BJ_02_9498 {
-// 백준 점수 출력문제
+// 백준 점수 출력문제.
     public static void main(String[] args) {
 
         Scanner s = new Scanner(System.in);

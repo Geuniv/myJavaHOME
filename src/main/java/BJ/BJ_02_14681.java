@@ -3,7 +3,7 @@ package BJ;
 import java.util.Scanner;
 
 public class BJ_02_14681 {
-// 백준 사분면 고르기 문제
+// 백준 사분면 고르기 문제.
     public static void main(String[] args) {
 
         Scanner s = new Scanner(System.in);
