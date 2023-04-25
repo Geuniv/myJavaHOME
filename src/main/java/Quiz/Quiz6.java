@@ -1,4 +1,4 @@
-package Study;
+package Quiz;
 
 public class Quiz6 {
     // for문 한번만 사용하여 별 찍기
