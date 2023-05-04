@@ -45,5 +45,6 @@ public class Ex09_14 {
         res = calc(a, b, oper);
 
         System.out.printf("계산 결과는 : %d\n", res);
+
     }
 }
