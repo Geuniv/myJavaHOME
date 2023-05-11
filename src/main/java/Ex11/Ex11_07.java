@@ -5,13 +5,13 @@ Car() {
 }
 */
 
-class Car2 {
+class Car7 {
     private String color;
     private int speed;
 
     /* 생성자에 2개의 파라미터를 받는다 this를 붙여서 필드와 파라미터 변수를 구분한다. */
     /* 메모리에 올릴 때 파라미터 값을 넣어서 한번에 올릴 수 있다 ? */
-    Car2(String color, int speed) {
+    Car7(String color, int speed) {
         this.color = color;
         this.speed = speed;
     }
@@ -34,10 +34,10 @@ public class Ex11_07 {
 
         /* 인스턴스를 생성 할 때 2개의 파라미터를 넘긴다. */
         /* 메모리에 올릴 때 파라미터 값을 넣어서 한번에 올릴 수 있다 ? */
-        Car2 myCar1 = new Car2("빨강", 0);
+        Car7 myCar1 = new Car7("빨강", 0);
         /* 인스턴스를 생성 할 때 2개의 파라미터를 넘긴다. */
         /* 메모리에 올릴 때 파라미터 값을 넣어서 한번에 올릴 수 있다 ? */
-        Car2 myCar2 = new Car2("파랑", 30);
+        Car7 myCar2 = new Car7("파랑", 30);
 
         System.out.println("자동차1의 색상은 " + myCar1.getColor() + "이며, 현재속도는 " + myCar1.getSpeed() + "km 입니다.");
         System.out.println("자동차2의 색상은 " + myCar2.getColor() + "이며, 현재속도는 " + myCar2.getSpeed() + "km 입니다.");
