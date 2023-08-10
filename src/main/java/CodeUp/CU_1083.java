@@ -4,6 +4,8 @@ import java.util.Scanner;
 
 public class CU_1083 {
 
+    // 1083 - 3 6 9 게임의 왕이 되어보자 !
+
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
